@@ -42,7 +42,8 @@ This project is part of my IBM Final Project where I built an AI-powered model t
 
 ## 📷 Output Examples
 AI Generated Image
-![Futuristic City](./1753594876544957704542407659095.jpg)
+<img width="998" height="522" alt="Screenshot 2025-07-11 130439" src="https://github.com/user-attachments/assets/e361f86b-a00a-4743-81a5-3c0ce98fce33" />
+
 
 ## 🧠 Skills Demonstrated
 
