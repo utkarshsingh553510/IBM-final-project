@@ -42,7 +42,7 @@ This project is part of my IBM Final Project where I built an AI-powered model t
 
 ## 📷 Output Examples
 
-(You can insert screenshots here if needed)  
+  
 ![example](./Screenshot%202025-07-11%20130311.png)
 
 ---
