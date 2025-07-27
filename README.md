@@ -41,7 +41,7 @@ This project is part of my IBM Final Project where I built an AI-powered model t
 ---
 
 ## 📷 Output Examples
-<img width="998" height="522" alt="Screenshot 2025-07-11 130439" src="https://github.com/user-attachments/assets/70fa7a07-6033-416a-ba54-c992c92dd281" />
+![AI Generated Image](./1753594876544957704542407659095.jpg)
 
 
 ## 🧠 Skills Demonstrated
