@@ -43,7 +43,8 @@ This project is part of my IBM Final Project where I built an AI-powered model t
 ## 📷 Output Examples
 
   
-![example](./Screenshot%202025-07-11%20130311.png)
+![example](<img width="998" height="522" alt="Screenshot 2025-07-11 130439" src="https://github.com/user-attachments/assets/4aba217e-346b-4e4b-b8c7-f12add26fa78" />
+)
 
 ---
 
